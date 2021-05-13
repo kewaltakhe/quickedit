@@ -1,5 +1,5 @@
 # quickedit
-a program I use to edit files that I edit frequently e.g. config file, to avoid cd'ing.
+a program to fast edit text files e.g. config file, to avoid cd'ing.
 
 Files to edit are stored as name:file pair.
 e.g. bash : ~/.bashrc
